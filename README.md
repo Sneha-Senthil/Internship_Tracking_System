@@ -42,8 +42,13 @@ Features another dynamic, animated dashboard with quotes, quick statistics showi
 
 Displays all the internship data from the excel sheet in the app. Also provides filters and an export to excel option that exports the filtered data as a CSV file.
 
+## Architecture Diagram
+<img width="796" height="586" alt="image" src="https://github.com/user-attachments/assets/89e0f176-d65c-4420-b11b-498993956167" />
+
+
 # Video Demo 
 
 
 https://github.com/user-attachments/assets/f03e5584-3604-4d9e-8fd4-3057668293d6
+
 
