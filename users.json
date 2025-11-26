@@ -1,0 +1,37 @@
+[
+  {
+    "username": "teacher1",
+    "password": "teacher123",
+    "role": "teacher"
+  },
+  {
+    "username": "3122225001094",
+    "password": "prashanna",
+    "role": "student",
+    "folderId": "1KFmgm-AaFPBqWC345rkHsU5_7p6usWIU"
+  },
+  {
+    "username": "3122225001062",
+    "password": "kisshor",
+    "role": "student",
+    "folderId": "1tOMzvTKNJn6A5qoUSNE55ZhL63_ZRWqs"
+  },
+  {
+    "username": "3122225001101",
+    "password": "rajesh",
+    "role": "student",
+    "folderId": "1r1ZqDLk8bsN2I68P2QhEhhYp4vzxPige"
+  },
+  {
+    "username": "teacher2",
+    "password": "teacher321",
+    "role": "teacher",
+    "folderId": "1zMIYEVzTIeTMAX23kAP9BUykyMDn_6nA"
+  },
+  {
+    "username": "3122225001065",
+    "password": "krishna",
+    "role": "student",
+    "folderId": "1U9ADuNmPLjjON5grTcZootiExbOjT4Ml"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "drive-upload-test",
+  "version": "1.0.0",
+  "description": "Test server for Drive uploads",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  }
+}
